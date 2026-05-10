@@ -7,7 +7,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       // App metadata
-      title: 'Khorochai',
+      title: 'Khorochi',
       debugShowCheckedModeBanner: false,
         // Theme configuration
       theme: AppTheme.lightTheme(),
